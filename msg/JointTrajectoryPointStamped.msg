@@ -1,0 +1,2 @@
+Header header
+trajectory_msgs/JointTrajectoryPoint trajectory_point
