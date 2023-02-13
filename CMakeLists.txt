@@ -53,8 +53,7 @@ add_message_files(
   msg
   FILES
   JointTrajectoryPointStamped.msg
-  BoolStamped.msg
-#   Message2.msg
+  JointTrajectoryPointClearStamped.msg
 )
 
 ## Generate services in the 'srv' folder

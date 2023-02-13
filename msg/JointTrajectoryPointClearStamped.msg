@@ -1,0 +1,3 @@
+Header header
+bool clear
+trajectory_msgs/JointTrajectoryPoint trajectory_point
