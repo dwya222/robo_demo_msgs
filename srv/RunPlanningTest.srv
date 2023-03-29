@@ -1,0 +1,4 @@
+string scenario
+---
+bool success
+string message
